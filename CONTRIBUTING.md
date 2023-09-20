@@ -1,3 +1,5 @@
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 Contributing to Simple Interest Calculator
 Thank you for your interest in contributing to Simple Interest Calculator! This document outlines how you can be a part of our collaborative effort.
 
